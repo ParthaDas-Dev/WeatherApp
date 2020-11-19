@@ -31,6 +31,7 @@ function accessDenied(error) {
 
   if (error.code == 1) {
     u_location.innerHTML = "Access Denied";
+    u_location.style.fontSize = "1.3rem";
   }
 }
 
