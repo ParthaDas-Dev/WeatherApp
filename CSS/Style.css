@@ -33,7 +33,8 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 .user-location h4 {
-  font-weight: bold;
+    font-weight: bold;
+    font-size: 1.3rem;
 }
 .loc-name {
   background: #3867d6;
