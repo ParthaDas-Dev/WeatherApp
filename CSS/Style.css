@@ -214,12 +214,18 @@ footer {
     letter-spacing: 2px;
     font-size: 18px;
   }
+  .user-location h4 {
+    font-weight: bold;
+    font-size: 1.6rem;
+    
+  }
 }
 
 @media only screen and (max-width:992px){
   .user-location {
     background-image: linear-gradient(-1800deg, #fff 70%, #3867d6 30%  );
   }
+  
 }
 @media only screen and (max-width: 880px) {
   .summary {
